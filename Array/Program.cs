@@ -24,6 +24,7 @@ else
 }
 
 Console.WriteLine(result);
+Console.WriteLine(result);
 Console.WriteLine("No. It isn't. " + result);
 
 Console.WriteLine("Base number was: {0}, power of number was {1}, the result = {2}.",
